@@ -3,6 +3,12 @@
 I'm just, a normal person that likes to play stuff and some bit of coding, even though
 i'm not super satisfied lmao.
 
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pico8430&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Pico8430&count_private=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 # What i'm currently working on
 
 Currently i'm working on fnf mods/custom engine versions (Pulled Edition),
